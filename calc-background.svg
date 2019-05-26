@@ -15,9 +15,9 @@
 	.st9{font-size:29.0075px;}
 	.st10{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
 	.st11{opacity:0.07;fill:url(#SVGID_2_);stroke:#39BCFF;stroke-width:1.2;stroke-miterlimit:10;enable-background:new    ;}
-	.st12{font-size:36px;}
-	.st13{font-size:50px;}
-	.st14{font-size:48px;}
+	.st12{font-size:22.4091px;}
+	.st13{font-size:31.1238px;}
+	.st14{font-size:29.8788px;}
 	.st15{opacity:0.07;fill:url(#SVGID_3_);stroke:#39BCFF;stroke-width:1.2;stroke-miterlimit:10;enable-background:new    ;}
 	.st16{font-size:20.43px;}
 	.st17{font-size:28.375px;}
@@ -92,64 +92,64 @@
 <line class="st8" x1="1166.71" y1="640.8" x2="1191.73" y2="640.8"/>
 <line class="st8" x1="1178.89" y1="629.01" x2="1178.89" y2="652.58"/>
 <line class="st10" x1="977.07" y1="439.31" x2="1200.64" y2="439.31"/>
-<radialGradient id="SVGID_2_" cx="694.945" cy="1207.895" r="354.0922" gradientTransform="matrix(1 0 0 -1 0 1399.89)" gradientUnits="userSpaceOnUse">
+<radialGradient id="SVGID_2_" cx="700.7587" cy="1334.2001" r="354.0922" gradientTransform="matrix(0.7078 0 0 -0.6225 146.7401 1065.5447)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0.2193" style="stop-color:#FFFFFF;stop-opacity:0"/>
 	<stop  offset="1" style="stop-color:#000000"/>
 </radialGradient>
-<path class="st11" d="M866.85,496.91h-343.8c-11.51,0-20.84-8.28-20.84-18.47v-572.9c0-10.2,9.33-18.47,20.84-18.47h343.79
-	c11.51,0,20.84,8.28,20.84,18.47v572.9C887.68,488.64,878.36,496.91,866.85,496.91z"/>
-<rect x="522.41" y="46.25" class="st1" width="47.78" height="41.11"/>
+<path class="st11" d="M764.42,424.84H521.08c-8.15,0-14.75-5.15-14.75-11.5V56.73c0-6.35,6.6-11.5,14.75-11.5h243.34
+	c8.15,0,14.75,5.15,14.75,11.5v356.62C779.16,419.7,772.57,424.84,764.42,424.84z"/>
+<rect x="520.62" y="144.32" class="st1" width="33.82" height="25.59"/>
 <g class="st2">
-	<path d="M522.36,71.81l9.9-25.77h3.67l10.55,25.77h-3.88l-3.01-7.8h-10.78l-2.83,7.8H522.36z M529.79,61.22h8.74l-2.69-7.14
-		c-0.82-2.17-1.43-3.95-1.83-5.34c-0.33,1.65-0.79,3.29-1.39,4.92L529.79,61.22z"/>
-	<path d="M567.51,62.77l3.41,0.86c-0.71,2.8-2,4.94-3.86,6.41s-4.13,2.21-6.81,2.21c-2.78,0-5.04-0.57-6.78-1.7
-		s-3.06-2.77-3.97-4.91c-0.91-2.14-1.36-4.45-1.36-6.91c0-2.68,0.51-5.02,1.54-7.02c1.03-2,2.48-3.52,4.38-4.55s3.98-1.56,6.25-1.56
-		c2.58,0,4.75,0.66,6.5,1.97s2.98,3.16,3.67,5.54l-3.36,0.79c-0.6-1.88-1.46-3.24-2.6-4.1c-1.14-0.86-2.57-1.28-4.29-1.28
-		c-1.98,0-3.64,0.47-4.97,1.42s-2.26,2.22-2.8,3.82c-0.54,1.6-0.81,3.25-0.81,4.95c0,2.19,0.32,4.1,0.96,5.74s1.63,2.86,2.98,3.67
-		c1.35,0.81,2.81,1.21,4.38,1.21c1.91,0,3.53-0.55,4.85-1.65S567.04,64.94,567.51,62.77z"/>
+	<path d="M520.59,160.23l7.01-16.04h2.6l7.47,16.04h-2.75l-2.13-4.86h-7.63l-2,4.86H520.59z M525.85,153.64h6.19l-1.9-4.44
+		c-0.58-1.35-1.01-2.46-1.3-3.32c-0.23,1.03-0.56,2.05-0.98,3.06L525.85,153.64z"/>
+	<path d="M552.55,154.6l2.41,0.54c-0.5,1.74-1.42,3.08-2.73,3.99s-2.92,1.38-4.82,1.38c-1.97,0-3.57-0.35-4.8-1.06
+		s-2.17-1.72-2.81-3.06s-0.96-2.77-0.96-4.3c0-1.67,0.36-3.12,1.09-4.37c0.73-1.24,1.76-2.19,3.1-2.83s2.82-0.97,4.42-0.97
+		c1.83,0,3.36,0.41,4.6,1.23s2.11,1.97,2.6,3.45l-2.38,0.49c-0.42-1.17-1.03-2.02-1.84-2.55c-0.81-0.54-1.82-0.8-3.04-0.8
+		c-1.4,0-2.58,0.29-3.52,0.88s-1.6,1.38-1.98,2.38c-0.38,1-0.57,2.02-0.57,3.08c0,1.36,0.23,2.55,0.68,3.57s1.15,1.78,2.11,2.28
+		c0.96,0.5,1.99,0.75,3.1,0.75c1.35,0,2.5-0.34,3.43-1.03S552.21,155.95,552.55,154.6z"/>
 </g>
-<rect x="614.74" y="38.47" class="st1" width="54.44" height="28.89"/>
-<text transform="matrix(1 0 0 1 614.735 69.1537)" class="st2 st3 st12">+</text>
+<rect x="585.97" y="139.48" class="st1" width="38.53" height="17.98"/>
+<text transform="matrix(1.1371 0 0 1 585.9714 158.572)" class="st2 st3 st12">+</text>
 <g class="st5">
 	<g>
-		<path d="M623.8,82.75c12.92-12.15,25.84-24.31,38.77-36.46c0.59-0.55-0.3-1.43-0.88-0.88c-12.92,12.15-25.84,24.31-38.77,36.46
-			C622.33,82.42,623.22,83.3,623.8,82.75L623.8,82.75z"/>
+		<path d="M592.39,167.04c9.14-7.56,18.29-15.13,27.44-22.7c0.42-0.34-0.21-0.89-0.62-0.55c-9.14,7.56-18.29,15.13-27.44,22.7
+			C591.35,166.83,591.98,167.38,592.39,167.04L592.39,167.04z"/>
 	</g>
 </g>
-<rect x="722.61" y="50.13" class="st1" width="42.22" height="33.33"/>
-<text transform="matrix(1 0 0 1 722.6052 75.6979)" class="st2 st3 st12">%</text>
-<rect x="540.61" y="145.13" class="st1" width="107.78" height="87.78"/>
-<text transform="matrix(1 0 0 1 540.6112 170.6975)" class="st2 st3 st12">7</text>
-<rect x="635.5" y="145.13" class="st1" width="68.89" height="48.89"/>
-<text transform="matrix(1 0 0 1 635.5012 170.6982)" class="st2 st3 st12">8</text>
-<rect x="682.61" y="145.13" class="st1" width="122.22" height="57.78"/>
-<text transform="matrix(1 0 0 1 726.2832 170.6979)" class="st2 st3 st12">9</text>
-<text transform="matrix(1 0 0 1 540.6107 266.2537)" class="st2 st3 st12">4</text>
-<rect x="635.5" y="240.69" class="st1" width="118.89" height="105.56"/>
-<text transform="matrix(1 0 0 1 635.501 266.2534)" class="st2 st3 st12">5</text>
-<rect x="726.29" y="239.31" class="st1" width="61.11" height="45.56"/>
-<text transform="matrix(1 0 0 1 726.2836 264.8716)" class="st2 st3 st12">6</text>
-<text transform="matrix(1 0 0 1 538.6239 358.377)" class="st2 st3 st12">1</text>
-<text transform="matrix(1 0 0 1 635.5011 362.0725)" class="st2 st3 st12">2</text>
-<text transform="matrix(1 0 0 1 726.2872 362.0724)" class="st2 st3 st12">3</text>
-<rect x="656.63" y="44.63" class="st1" width="92.22" height="38.89"/>
-<text transform="matrix(1 0 0 1 656.6311 80.1371)" class="st2 st3 st13">-</text>
-<rect x="641.96" y="-126.93" class="st1" width="151" height="108"/>
+<rect x="662.33" y="146.73" class="st1" width="29.88" height="20.75"/>
+<text transform="matrix(1.1371 0 0 1 662.3235 162.6462)" class="st2 st3 st12">%</text>
+<rect x="533.5" y="205.87" class="st1" width="76.29" height="54.64"/>
+<text transform="matrix(1.1371 0 0 1 533.5061 221.7809)" class="st2 st3 st12">7</text>
+<rect x="600.67" y="205.87" class="st1" width="48.76" height="30.43"/>
+<text transform="matrix(1.1371 0 0 1 600.6702 221.7809)" class="st2 st3 st12">8</text>
+<rect x="634.01" y="205.87" class="st1" width="86.51" height="35.97"/>
+<text transform="matrix(1.1371 0 0 1 664.9265 221.7809)" class="st2 st3 st12">9</text>
+<text transform="matrix(1.1371 0 0 1 533.5056 281.2624)" class="st2 st3 st12">4</text>
+<rect x="600.67" y="265.35" class="st1" width="84.15" height="65.71"/>
+<text transform="matrix(1.1371 0 0 1 600.6697 281.2619)" class="st2 st3 st12">5</text>
+<rect x="664.93" y="264.49" class="st1" width="43.25" height="28.36"/>
+<text transform="matrix(1.1371 0 0 1 664.927 280.402)" class="st2 st3 st12">6</text>
+<text transform="matrix(1.1371 0 0 1 532.0994 338.6066)" class="st2 st3 st12">1</text>
+<text transform="matrix(1.1371 0 0 1 600.6702 340.9069)" class="st2 st3 st12">2</text>
+<text transform="matrix(1.1371 0 0 1 664.9294 340.9069)" class="st2 st3 st12">3</text>
+<rect x="615.63" y="143.31" class="st1" width="65.27" height="24.21"/>
+<text transform="matrix(1.1371 0 0 1 615.6262 165.4089)" class="st2 st3 st13">-</text>
+<rect x="605.24" y="36.52" class="st1" width="106.88" height="67.23"/>
 <path class="st7" d="M452.41,115.14"/>
-<path class="st7" d="M764.32,174.05"/>
-<line class="st8" x1="815.81" y1="67.36" x2="854.81" y2="67.36"/>
-<line class="st8" x1="824.09" y1="172.55" x2="851.93" y2="145.23"/>
-<line class="st8" x1="850.49" y1="172.06" x2="823.17" y2="144.22"/>
-<line class="st8" x1="817.15" y1="262.09" x2="856.15" y2="262.09"/>
-<line class="st8" x1="815.81" y1="444.88" x2="854.81" y2="444.88"/>
-<line class="st8" x1="815.81" y1="457.6" x2="854.81" y2="457.6"/>
-<rect x="536.29" y="435.26" class="st1" width="108" height="79"/>
-<text transform="matrix(1 0 0 1 536.2924 460.8232)" class="st2 st3 st12">0</text>
-<rect x="733.96" y="422.1" class="st1" width="126" height="71"/>
-<text transform="matrix(1 0 0 1 733.9574 447.6632)" class="st2 st3 st14">.</text>
-<line class="st8" x1="816.32" y1="346.25" x2="855.32" y2="346.25"/>
-<line class="st8" x1="835.31" y1="326.75" x2="835.31" y2="365.75"/>
-<line class="st10" x1="520.67" y1="12.85" x2="869.22" y2="12.85"/>
+<path class="st7" d="M691.85,223.87"/>
+<line class="st8" x1="728.29" y1="157.46" x2="755.9" y2="157.46"/>
+<line class="st8" x1="734.16" y1="222.94" x2="753.86" y2="205.93"/>
+<line class="st8" x1="752.84" y1="222.63" x2="733.5" y2="205.3"/>
+<line class="st8" x1="729.24" y1="278.67" x2="756.85" y2="278.67"/>
+<line class="st8" x1="728.29" y1="392.46" x2="755.9" y2="392.46"/>
+<line class="st8" x1="728.29" y1="400.37" x2="755.9" y2="400.37"/>
+<rect x="530.45" y="386.47" class="st1" width="76.44" height="49.18"/>
+<text transform="matrix(1.1371 0 0 1 530.449 402.3766)" class="st2 st3 st12">0</text>
+<rect x="670.36" y="378.28" class="st1" width="89.18" height="44.2"/>
+<text transform="matrix(1.1371 0 0 1 670.3586 394.1852)" class="st2 st3 st14">.</text>
+<line class="st8" x1="728.66" y1="331.06" x2="756.26" y2="331.06"/>
+<line class="st8" x1="742.1" y1="318.92" x2="742.1" y2="343.2"/>
+<line class="st10" x1="519.39" y1="123.53" x2="766.1" y2="123.53"/>
 <radialGradient id="SVGID_3_" cx="-115.2972" cy="1074.9059" r="354.076" gradientTransform="matrix(0.6414 0 0 -0.5675 343.0916 991.959)" gradientUnits="userSpaceOnUse">
 	<stop  offset="0.2193" style="stop-color:#FFFFFF;stop-opacity:0"/>
 	<stop  offset="1" style="stop-color:#000000"/>
