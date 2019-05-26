@@ -8,3 +8,7 @@
     background: url(calc-background.svg);
 }
 
+.footer {
+    position: fixed;
+    text-align: center;
+}
